@@ -1,0 +1,20 @@
+# .NET
+**/bin/
+**/obj/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+
+# Docker
+**/Dockerfile
+**/docker-compose.yml
+docker-compose.override.yml
+.dockerignore
+
+# General
+*.log
+*.tmp
+*.bak
+*.swp
