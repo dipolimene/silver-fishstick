@@ -1,0 +1,34 @@
+# Ignore .NET build outputs
+**/bin/
+**/obj/
+
+# Ignore Properties file
+**/Properties
+**/appsettings.Development.json
+**/*.sln
+
+# Ignore Dockerfile build
+**/Dockerfile*
+**/.dockerignore
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore build results
+*.dll
+*.exe
+*.app
+*.log
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore IDE-specific files
+.vscode/
+.idea/

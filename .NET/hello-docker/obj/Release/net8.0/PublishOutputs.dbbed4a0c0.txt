@@ -1,0 +1,6 @@
+/Users/dipolimene/Desktop/DevOps/Docker/.NET/hello-docker/Published/appsettings.Development.json
+/Users/dipolimene/Desktop/DevOps/Docker/.NET/hello-docker/Published/appsettings.json
+/Users/dipolimene/Desktop/DevOps/Docker/.NET/hello-docker/Published/hello-docker.dll
+/Users/dipolimene/Desktop/DevOps/Docker/.NET/hello-docker/Published/hello-docker.deps.json
+/Users/dipolimene/Desktop/DevOps/Docker/.NET/hello-docker/Published/hello-docker.runtimeconfig.json
+/Users/dipolimene/Desktop/DevOps/Docker/.NET/hello-docker/Published/hello-docker.pdb
